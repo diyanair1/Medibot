@@ -1,6 +1,6 @@
 # MediBot - Autonomous First Aid Ambulance ⛑️
 
-MediBot is an autonomous robot designed to simulate an ambulance navigating through real road conditions. The project involves building a robot that can detect walls, respond to traffic lights, mimic emergency vehicle behavior such as detecting sirens and activating emergency lights to bypass red lights and delivering first aid. The robot is designed using the Lego EV3 platform and programmed with RobotC.
+MediBot is an autonomous robot designed to simulate an ambulance navigating through a maze to simulate real road conditions. The project involves building a robot that can detect walls, respond to traffic lights, mimic emergency vehicle behavior such as detecting sirens and activating emergency lights to bypass red lights and delivering first aid. The robot is designed using the Lego EV3 platform and programmed with RobotC.
 
 ## Features
 - **Autonomous Navigation**: The robot detects and avoids walls and obstacles using ultrasonic sensors.
